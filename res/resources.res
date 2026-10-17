@@ -1,0 +1,1 @@
+SPRITE ship "ship.png" 3 3 NONE
