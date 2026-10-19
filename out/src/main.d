@@ -17,4 +17,4 @@ out/src/main.o: src/main.c C:/SGDK/inc/genesis.h C:/SGDK/inc/types.h \
  C:/SGDK/inc/task_cst.h C:/SGDK/inc/ext/flash-save/flash.h \
  C:/SGDK/inc/types.h C:/SGDK/inc/ext/flash-save/saveman.h \
  C:/SGDK/inc/ext/console.h C:/SGDK/inc/config.h C:/SGDK/inc/string.h \
- C:/SGDK/inc/maths.h C:/SGDK/inc/dma.h
+ C:/SGDK/inc/maths.h C:/SGDK/inc/dma.h res/resources.h
